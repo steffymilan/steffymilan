@@ -23,6 +23,8 @@ Eu sou a <b> Steffany Milan</b>.
 
 **Algumas informações interessantes:**
 
+ <img align="right" alt="steffy-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/94996662/148393460-34cecc27-00d5-45a7-aa08-ef79ebc1e977.gif">
+</div>
 
 
 - 🎯 Estou me aperfeiçoando para ser uma analista de dados.
@@ -30,7 +32,7 @@ Eu sou a <b> Steffany Milan</b>.
 - 🎮 Adoro jogar jogos de estratégia nas horas vagas;
 - 🎵 Acompanhada de uma boa música tudo fica melhor; 
 - ⚽ Esportes são importantes para manter nosso corpo ativo e uma mente mais saudável;
-- 💬 Em geral eu amo conversar sobre tudo e trocar conhecimento, então fique a vontade em me chamar xD ;
+- 💬 Em geral eu amo conversar sobre tudo e trocar conhecimento, então fique a vontade em me chamar xD
 - 📩 Se desejar, me envie um email em milan.steffany@hotmail.com.
 - 📄 Este é meu <a href="https://drive.google.com/file/d/1x7TNDZyhWfT4J7BvFQw-uWTBBdAy7r9m/view?usp=sharing" target="_blank" >Currículo</a> para mais informações.
 
@@ -38,8 +40,6 @@ Eu sou a <b> Steffany Milan</b>.
 <hr />
 
 
- <img align="right" alt="steffy-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/94996662/148393460-34cecc27-00d5-45a7-aa08-ef79ebc1e977.gif">
-</div>
 
 
 
