@@ -34,7 +34,7 @@ Eu sou a <b> Steffany Milan</b>.
 - ⚽ Esportes são importantes para manter nosso corpo ativo e uma mente mais saudável;
 - 💬 Em geral eu amo conversar sobre tudo e trocar conhecimento, então fique a vontade em me chamar xD
 - 📩 Se desejar, me envie um email em milan.steffany@hotmail.com.
-- 📄 Este é meu <a href="https://drive.google.com/file/d/1x7TNDZyhWfT4J7BvFQw-uWTBBdAy7r9m/view?usp=sharing" target="_blank" >Currículo</a> para mais informações.
+- 📄 Este é meu <a href="https://drive.google.com/file/d/1qFgwPboD5G75K0iw4kI7eX6NG7pfhE8Z/view?usp=sharing" target="_blank" >Currículo</a> para mais informações.
 
 
 <hr />
