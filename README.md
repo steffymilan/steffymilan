@@ -28,13 +28,13 @@ Eu sou a <b> Steffany Milan</b>.
 
 
 - 🎯 Estou me aperfeiçoando para ser uma analista de dados.
-- 🎓 Atualmente sou formada em Engenharia Química e curso MBA em Gestão de projetos Industriais;
+- 🎓 Atualmente sou formada em Engenharia Química e curso MBA em Gestão de projetos Empresariais;
 - 🎮 Adoro jogar jogos de estratégia nas horas vagas;
-- 🎵 Acompanhada de uma boa música tudo fica melhor; 
+- 🎵 Acompanhada de uma boa música tudo fica melhor, inclusive estou aprendendo a tocar bateria; 
 - ⚽ Esportes são importantes para manter nosso corpo ativo e uma mente mais saudável;
 - 💬 Em geral eu amo conversar sobre tudo e trocar conhecimento, então fique a vontade em me chamar xD
 - 📩 Se desejar, me envie um email em milan.steffany@hotmail.com.
-- 📄 Este é meu <a href="https://drive.google.com/file/d/1qFgwPboD5G75K0iw4kI7eX6NG7pfhE8Z/view?usp=sharing" target="_blank" >Currículo</a> para mais informações.
+- 📄 Este é meu <a href="https://drive.google.com/file/d/1HuoieuOWpMTn9BuhPDmYfjawx-gx7sJZ/view?usp=sharing" target="_blank" >Currículo</a> para mais informações.
 
 
 <hr />
